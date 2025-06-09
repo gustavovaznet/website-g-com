@@ -1,2 +1,4 @@
-# website-g-com
-G.COM Consulting
+# G.COM Consulting
+IT consulting, project manangement and services.
+
+LINK: https://gcomconsulting.netlify.app/
